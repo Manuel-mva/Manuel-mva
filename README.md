@@ -15,7 +15,7 @@ ESPAÑOL
     - Android
 - 💞 Busco colaborar en: Aun nose mucho pero desearia aportar en algo.
 - 📫 Cómo contactarme: vargasachoj@gmail.com
-- 😄 Pronombres: Manu
+- 😄 Apodo: Manu
 - ⚡ Dato curioso:
   El Spinosaurus vivió en ambientes húmedos de planicies
   intermareales, manglares y bosques costeros durante el
