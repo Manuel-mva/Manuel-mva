@@ -1,6 +1,6 @@
 ESPAÑOL
 -👋 Hola, soy @Manuel-mva 
-- 👀 Me interesa: La Programacion, Dibujar, viajar y Aprender
+- 👀 Me interesa: La Programacion, Dibujar, Viajar, Los Dinosaurios y Aprender.
 - 🌱 Actualmente estoy aprendiendo: 
     - Python
     - PHP
@@ -13,7 +13,7 @@ ESPAÑOL
     - Git
     - Github
     - Android
-- 💞 Busco colaborar en...
+- 💞 Busco colaborar en: Aun nose mucho pero desearia aportar en algo.
 - 📫 Cómo contactarme: vargasachoj@gmail.com
 - 😄 Pronombres: Manu
 - ⚡ Dato curioso:
